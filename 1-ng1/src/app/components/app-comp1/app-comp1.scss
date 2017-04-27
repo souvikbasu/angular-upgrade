@@ -1,0 +1,20 @@
+app-comp1 {
+    background-color: #d8d8d8;
+    color: #fff;
+    display: inline-block;
+    height: 370px;
+    width: 1050px;
+    padding: 20px;
+    margin: 20px;
+    font-family: 'Courier New';
+
+    .next-page {
+        float: right;
+    }
+
+    .service-data {
+        color: #000;
+        font-weight: 600;
+        margin: 20px;
+    }
+}

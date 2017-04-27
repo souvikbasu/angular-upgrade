@@ -1,0 +1,45 @@
+app-comp1 {
+  background-color: #d8d8d8;
+  color: #fff;
+  display: inline-block;
+  height: 370px;
+  width: 1050px;
+  padding: 20px;
+  margin: 20px;
+  font-family: 'Courier New'; }
+  app-comp1 .next-page {
+    float: right; }
+  app-comp1 .service-data {
+    color: #000;
+    font-weight: 600;
+    margin: 20px; }
+
+app-comp2 {
+  background-color: #c5c5c5;
+  color: #fff;
+  display: inline-block;
+  height: 200px;
+  width: 400px;
+  padding: 20px;
+  margin: 20px;
+  font-family: 'Courier New'; }
+
+app-comp3 {
+  background-color: #a5a3a3;
+  color: #fff;
+  display: inline-block;
+  height: 220px;
+  width: 180px;
+  padding: 20px;
+  margin: 20px;
+  font-family: 'Courier New'; }
+
+app-comp4 {
+  background-color: #787878;
+  color: #fff;
+  display: inline-block;
+  height: 60px;
+  width: 100px;
+  padding: 20px;
+  margin: 20px;
+  font-family: 'Courier New'; }
